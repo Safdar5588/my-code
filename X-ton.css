@@ -267,12 +267,12 @@ header{
 }
 
 .demo-images-section{
-    width: 1116px;
-    max-width: 100%;
     display: flex;
     flex-wrap: wrap;
     margin: auto;
     justify-content: space-between;
+    width: 1116px;
+    max-width: 100%;
 }
 
 .home-demo-1-image{
